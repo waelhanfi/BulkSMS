@@ -1,0 +1,56 @@
+/*************************************************************************************************************
+************************************************* style.css ****************************************************
+
+Style utilis? a divers endroits au sein m?me des formulaires extJS
+auteur : p.hoffmann - mai 2009
+*************************************************************************************************************/
+#header h1 {
+    font-size: 16px;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
+
+/**** Pour le footer en bas de la page ...****/
+#footer {
+	width: 98%;
+	text-align: center;
+	padding:0;
+	padding-top:15px;
+	margin: 0;
+	position:relative;
+}
+
+
+
+#titre_contact, #titre_ajout
+{
+	font:bold 25px tahoma,arial,helvetica,sans-serif;
+	color:#cc0000;
+	text-decoration:underline;
+	padding-top:12px;
+	padding-bottom:25px;
+	text-align:center;
+}
+
+
+.add {
+  background-image:url(images/add.gif) !important;
+}
+.remove {
+	background-image:url(images/delete.gif) !important;
+}
+.modifier {
+	background-image:url(images/modifier.gif) !important;
+}
+.utilisateur { 
+  color:#555;
+}
+.moderateur { 
+  color:#000;
+}
+.administrateur { 
+ color:#000;
+ text-decoration:underline;
+}
+

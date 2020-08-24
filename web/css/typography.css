@@ -1,0 +1,53 @@
+/* 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Designed & Coded By : Richard Carpenter
+URL : www.richard-carpenter.co.uk
+	  www.hv-designs.co.uk
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+*/
+
+h1 {
+	color: #304c63;
+	font-size: 18px;
+	letter-spacing: -1px;
+	background-color: #EAEAEA;
+	float: left;
+	padding-right: 20px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h2.twitter {
+	padding-left: 20px;
+}
+
+h3 {
+	color: #304c63;
+	font-size: 16px;
+}
+
+h4 {
+}
+
+a:link {
+	color: #333333;
+	text-decoration: none;
+}
+a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	color: #304c63;
+	text-decoration: none;
+}
+a:active {
+	color: #333333;
+	text-decoration: none;
+}

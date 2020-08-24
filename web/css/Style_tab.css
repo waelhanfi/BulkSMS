@@ -1,0 +1,40 @@
+#customers
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+text-align:center;
+width:60%;
+border-collapse:collapse;
+
+}
+#customers td, #customers th 
+{
+font-size:1em;
+border:1px solid #DE903B;
+padding:3px 7px 2px 7px;
+
+
+}
+#customers th 
+{
+font-size:1.1em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A7C942;
+color:#6e8795;
+width:150px;
+background: url(../images/dtable.gif) #FFF repeat-x scroll center left;
+
+}
+#customers tr.alt td 
+{
+color:#6e8795;
+background-color:#EAF2D3;
+}
+
+
+
+#customers tr :hover{
+	background-color: #F5F4F3 ;
+	/*text-decoration: underline ;*/
+	}

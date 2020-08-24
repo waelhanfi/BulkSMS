@@ -1,0 +1,65 @@
+/* MENU G :sliding-navigation3*/
+
+
+#sliding-navigation3 {
+position:relative;
+left:0px;
+float: left;
+height: 262px;
+width: 193px;
+        margin: 190px 0px;
+
+}
+
+
+ #sliding-navigation3 { /* only ie6 : hack position fixe */
+        position: absolute;
+    //    top: expression((document.documentElement.scrollTop || document.body.scrollTop) + this.offsetHeight - this.offsetHeight);
+}
+
+
+
+
+#sliding-navigation3 ul {
+list-style: none;
+position:relative;
+
+
+}
+
+
+#sliding-navigation3 a {
+    font-weight: bold;
+font-size: 11px;
+    font-family: sans-serif;
+width: 107px;
+height:30px;
+display: block;
+padding: 5px 5px 3px 40px;
+background: #45B4E0 center left no-repeat;
+margin: 5px 0;
+text-decoration: none;
+-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+
+
+}
+
+
+#sliding-navigation3 a {
+  color: #FFF;
+  zoom: 1;
+  background: #2E3339 url() ;
+  background-repeat: no-repeat;
+  background-position: top;
+
+ text-shadow: 0 2px 1px rgba(0,0,0,0.2);
+ text-decoration: none;
+}
+
+
+
+
+#sliding-navigation3 h3 {
+font-size: 13px;
+}

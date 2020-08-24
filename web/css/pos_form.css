@@ -1,0 +1,26 @@
+/* CSS Document */
+
+
+.styl_form{ 
+width: 700px;
+margin:30px 160px ;
+margin-bottom:3px;
+
+}
+.styl_form2{ 
+width: 500px;
+margin-left:199px;
+margin-bottom:3px;
+margin-top:10px;
+
+}
+
+
+
+.vois{ float: left;  margin: 10px 0px; }
+.vois1{margin-left: 0px;}
+.vois2{ float: left;  margin-bottom:1px; position:relative;}
+.vois{ float: left;overflow:visible; display:inline; }
+
+
+
